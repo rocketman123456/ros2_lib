@@ -1,3 +1,6 @@
 [submodule "src/examples"]
 	path = src/examples
 	url = https://github.com/ros2/examples.git
+[submodule "src/grid_map"]
+	path = src/grid_map
+	url = https://github.com/ANYbotics/grid_map.git

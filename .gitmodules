@@ -1,6 +1,6 @@
-[submodule "src/src/examples"]
-	path = src/src/examples
-	url = https://github.com/ros2/examples
 [submodule "src/examples"]
 	path = src/examples
-	url = https://github.com/ros2/examples
+	url = https://github.com/ros2/examples.git
+[submodule "src/ifopt"]
+	path = src/ifopt
+	url = https://github.com/ethz-adrl/ifopt.git

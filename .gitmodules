@@ -4,3 +4,6 @@
 [submodule "src/grid_map"]
 	path = src/grid_map
 	url = https://github.com/ANYbotics/grid_map.git
+[submodule "src/realsense-ros"]
+	path = src/realsense-ros
+	url = https://github.com/IntelRealSense/realsense-ros.git

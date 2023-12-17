@@ -10,9 +10,6 @@
 [submodule "src/BehaviorTree.CPP"]
 	path = src/BehaviorTree.CPP
 	url = https://github.com/BehaviorTree/BehaviorTree.CPP.git
-[submodule "src/pinocchio"]
-	path = src/pinocchio
-	url = https://github.com/stack-of-tasks/pinocchio.git
 [submodule "src/urdf_tutorial"]
 	path = src/urdf_tutorial
 	url = https://github.com/ros/urdf_tutorial.git

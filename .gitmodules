@@ -13,3 +13,6 @@
 [submodule "src/rbdl"]
 	path = src/rbdl
 	url = https://github.com/rbdl/rbdl.git
+[submodule "src/pinocchio"]
+	path = src/pinocchio
+	url = https://github.com/stack-of-tasks/pinocchio.git
